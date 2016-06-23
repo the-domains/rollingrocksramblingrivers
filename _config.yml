@@ -1,0 +1,14 @@
+layout_spectrum: 0.5336471619084477
+typography_spectrum: 0.6529125636443496
+color:
+  brandStrength: 0.083922921679914
+  lightness: 0.042328326031565666
+  saturation: 0.19478015135973692
+  rhythmicContrast: 0.8669666505884379
+  brandColors:
+    - '#1C1D21'
+    - '#31353D'
+    - '#445878'
+    - '#92CDCF'
+    - '#EEEFF7'
+name: RollingRocksRamblingRivers
